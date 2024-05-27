@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Thomson Reuters**
 
-- 🌱 I’m delving professionally into **Spring Boot and AngularJS**
+- 🌱 I’m delving professionally into **Spring Boot and Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
